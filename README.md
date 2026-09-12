@@ -26,17 +26,6 @@ You paste in a URL. The system extracts **28 measurable properties** of that URL
 
 ---
 
-## Demo
-
-Checking a phishing URL:
-
-![Phishing verdict](docs/images/demo-phishing.png)
-
-Checking a legitimate URL:
-
-![Legitimate verdict](docs/images/demo-legitimate.png)
-
----
 
 ## Why URL-only detection?
 
