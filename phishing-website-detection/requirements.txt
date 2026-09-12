@@ -1,0 +1,14 @@
+# Core (required)
+scikit-learn>=1.3
+pandas>=2.0
+numpy>=1.24
+joblib>=1.3
+
+# Charts produced by the training script
+matplotlib>=3.7
+
+# Optional: web demo (python -m src.app)
+Flask>=3.0
+
+# Optional: test runner (the tests also run with plain python)
+pytest>=7.4
